@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-03T13:15:24 IST" name="Default suite" finished-at="2023-08-03T13:15:50 IST" duration-ms="25919">
+    <groups>
+    </groups>
+    <test started-at="2023-08-03T13:15:24 IST" name="Default test" finished-at="2023-08-03T13:15:50 IST" duration-ms="25919">
+      <class name="com.registration.Registertest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.registration.Registertest@76a4ebf2]" started-at="2023-08-03T13:15:24 IST" name="beforeTest" finished-at="2023-08-03T13:15:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="registrationTest()[pri:0, instance:com.registration.Registertest@76a4ebf2]" started-at="2023-08-03T13:15:24 IST" name="registrationTest" finished-at="2023-08-03T13:15:34 IST" duration-ms="10283" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registrationTest -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.registration.Registertest@76a4ebf2]" started-at="2023-08-03T13:15:50 IST" name="afterTest" finished-at="2023-08-03T13:15:50 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.registration.Registertest -->
+      <class name="com.login.LoginTest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.login.LoginTest@15bb5034]" started-at="2023-08-03T13:15:24 IST" name="beforeTest" finished-at="2023-08-03T13:15:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="loginTest()[pri:0, instance:com.login.LoginTest@15bb5034]" started-at="2023-08-03T13:15:34 IST" name="loginTest" finished-at="2023-08-03T13:15:41 IST" duration-ms="7349" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.login.LoginTest@15bb5034]" started-at="2023-08-03T13:15:50 IST" name="afterTest" finished-at="2023-08-03T13:15:50 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.login.LoginTest -->
+      <class name="com.login.AdminLogin">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.login.AdminLogin@4b741d6d]" started-at="2023-08-03T13:15:24 IST" name="beforeTest" finished-at="2023-08-03T13:15:24 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="loginTest()[pri:0, instance:com.login.AdminLogin@4b741d6d]" started-at="2023-08-03T13:15:42 IST" name="loginTest" finished-at="2023-08-03T13:15:50 IST" duration-ms="8195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.login.AdminLogin@4b741d6d]" started-at="2023-08-03T13:15:50 IST" name="afterTest" finished-at="2023-08-03T13:15:50 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.login.AdminLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
